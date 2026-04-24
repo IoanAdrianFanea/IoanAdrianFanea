@@ -1,50 +1,74 @@
 # Ioan Adrian Fanea
- 
-Computer Science student at Queen Mary University of London (First Class Honours) focused on computational systems, numerical simulation, and backend software engineering.
- 
----
- 
-## Projects
- 
-### Modular N-Body Simulation Engine - Python
- 
-A physics-based gravitational simulation engine built from scratch. Implements Direct O(N²) and Barnes-Hut O(N log N) solvers with Euler and Leapfrog integrators, validated against conservation laws across long simulation runs. Includes empirical benchmarking across particle counts, profiling-driven optimisation, and full 3D support. Architecture is modular - solvers and integrators are interchangeable without touching physics or diagnostic code.
- 
-[github.com/IoanAdrianFanea/The-N-Body-Problem](https://github.com/IoanAdrianFanea/The-N-Body-Problem)
- 
----
- 
-### Construction Document Indexer - NestJS · React · TypeScript · SQLite
- 
-A secure shared document management system built for a real construction company workflow. Designed around project-based organisation, company-wide document visibility, and fast operational retrieval for procurement teams, managers, and quantity surveyors.
- 
-- JWT authentication with refresh token rotation and Argon2 hashing
-- USER/ADMIN role model with company-wide document access
-- PDF upload, text extraction, and full-text search with contextual snippets
-- Project-based document organisation and bulk ZIP export
-- Modular backend architecture supporting async processing and cloud storage
- 
-[github.com/IoanAdrianFanea/PDF-Sorter](https://github.com/IoanAdrianFanea/PDF-Sorter)
- 
----
- 
-## Open Source Contributions
- 
-### TARDIS - Supernova Spectral Simulation
- 
-Contributing ASV benchmarks as part of GSoC 2026 Benchmark Optimisation project.
- 
-- [PR #3511](https://github.com/tardis-sn/tardis/pull/3511) - ASV benchmarks for PlasmaSolverFactory plasma assembly pipeline
-- [PR #3533](https://github.com/tardis-sn/tardis/pull/3533) - ASV benchmark for classic Monte Carlo transport routine
- 
-[github.com/tardis-sn/tardis](https://github.com/tardis-sn/tardis)
- 
----
- 
-## Skills
- 
-**Languages** Python, TypeScript, JavaScript, Java, SQL  
-**Backend** NestJS, Node.js, REST APIs, Prisma ORM, JWT, SQLite FTS  
-**Frontend** React, HTML, CSS, Vite  
-**Tools** Git, GitHub, Linux/Ubuntu  
-**Core CS** Data Structures, Algorithms, OOP, Numerical Methods
+
+Computer Science student at Queen Mary University of London (First Class Honours).
+
+Focused on becoming a strong software engineer through building real systems and understanding how they work under the hood.
+
+Currently working on a productivity platform for a remote team, alongside projects in simulation and backend systems.
+
+<br>
+<br>
+
+## ── Projects ───────────────────────────────
+
+### 🚀 Team Productivity Platform (In Development)
+**Next.js · TypeScript · Supabase · PostgreSQL**
+
+Building a task tracking system to replace a messy Miro workflow used by a remote team.
+
+- Drag-and-drop task board with user-based workflows  
+- Automatic point tracking (no more manual counting at the end of the month)  
+- Timestamped activity tracking to understand how work actually happens  
+- Analytics: task frequency, completion rates, consistency over time  
+- Designed directly with the team using it day-to-day  
+
+
+### 🌌 Modular N-Body Simulation Engine
+**Python**
+
+Started as a physics problem, turned into a performance and architecture exercise.
+
+- Direct O(N²) and Barnes–Hut O(N log N) implementations  
+- Euler + Leapfrog integrators with validation via conservation laws  
+- Benchmarked across particle counts to understand scaling behaviour  
+- Modular design — swap solvers/integrators without touching the rest of the system  
+
+🔗 https://github.com/IoanAdrianFanea/The-N-Body-Problem
+
+
+### 📄 Construction Document Indexer
+**NestJS · React · TypeScript · SQLite**
+
+Built around how a construction company actually works, not how document systems usually look.
+
+- JWT auth, refresh tokens, role-based access  
+- PDF upload, text extraction, and full-text search with contextual results  
+- Project-based organisation + bulk export  
+- Designed for fast retrieval by non-technical users  
+
+🔗 https://github.com/IoanAdrianFanea/PDF-Sorter
+
+<br>
+<br>
+
+## ── Open Source ────────────────────────────
+
+### TARDIS -> Supernova Spectral Simulation
+
+Worked on performance benchmarking for simulation pipelines (GSoC-related work).
+
+- Added ASV benchmarks for plasma assembly and Monte Carlo transport  
+- Helped surface performance regressions in core simulation code  
+
+🔗 https://github.com/tardis-sn/tardis
+
+<br>
+<br>
+
+## ── Skills ─────────────────────────────────
+
+Python · TypeScript · JavaScript · Java · SQL  
+Node.js · NestJS · React · Next.js  
+PostgreSQL · SQLite (FTS)  
+Git · Linux  
+Data Structures · Algorithms · OOP · Numerical Methods
