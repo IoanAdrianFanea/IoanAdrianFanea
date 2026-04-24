@@ -2,7 +2,7 @@
 
 Computer Science student at Queen Mary University of London (First Class Honours).
 
-Focused on becoming a strong software engineer through building real systems and understanding how they work under the hood.
+Focused on becoming a strong software engineer through building real systems and understanding how they work.
 
 Currently working on a productivity platform for a remote team, alongside projects in simulation and backend systems.
 
