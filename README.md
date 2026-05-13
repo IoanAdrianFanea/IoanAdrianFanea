@@ -20,7 +20,9 @@ Building a task tracking system to replace a messy Miro workflow used by a remot
 - Automatic point tracking (no more manual counting at the end of the month)  
 - Timestamped activity tracking to understand how work actually happens  
 - Analytics: task frequency, completion rates, consistency over time  
-- Designed directly with the team using it day-to-day  
+- Designed directly with the team using it day-to-day
+
+🔗 https://github.com/IoanAdrianFanea/standup-board
 
 
 ### 🌌 Modular N-Body Simulation Engine
