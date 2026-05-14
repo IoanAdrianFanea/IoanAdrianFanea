@@ -22,7 +22,7 @@ Building a task tracking system to replace a messy Miro workflow used by a remot
 - Analytics: task frequency, completion rates, consistency over time  
 - Designed directly with the team using it day-to-day
 
-🔗 https://github.com/IoanAdrianFanea/standup-board
+🔗 https://github.com/IoanAdrianFanea/tally
 
 
 ### 🌌 Modular N-Body Simulation Engine
@@ -35,7 +35,7 @@ Started as a physics problem, turned into a performance and architecture exercis
 - Benchmarked across particle counts to understand scaling behaviour  
 - Modular design — swap solvers/integrators without touching the rest of the system  
 
-🔗 https://github.com/IoanAdrianFanea/The-N-Body-Problem
+🔗 https://github.com/IoanAdrianFanea/graviton
 
 
 ### 📄 Construction Document Indexer
@@ -48,7 +48,7 @@ Built around how a construction company actually works, not how document systems
 - Project-based organisation + bulk export  
 - Designed for fast retrieval by non-technical users  
 
-🔗 https://github.com/IoanAdrianFanea/PDF-Sorter
+🔗 https://github.com/IoanAdrianFanea/vault
 
 <br>
 <br>
